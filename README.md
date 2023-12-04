@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tonylchang
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Flask
 - 📫 tony@eliminated.org
 
 <!---
