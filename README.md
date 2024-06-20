@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tonylchang
-- 📫 tony@eliminated.org
+- 📫 tony@1x0.net
 
 <!---
 tonylchang/tonylchang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
